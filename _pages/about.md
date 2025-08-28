@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: Photo - Cléo BANGOURA.jpg
+  image: photo_pro_cleo_bangoura.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Neuville-de-Poitou</p>
