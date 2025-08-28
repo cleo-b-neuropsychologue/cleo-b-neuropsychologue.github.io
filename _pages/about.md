@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Accueil
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -13,22 +13,31 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Psychologue spécialisée en Neuropsychologie et Docteure en Psychologie, je propose des bilans psychométriques et neuropsychologiques ainsi que des accompagnements psychologiques adaptés aux enfants, adolescents, adultes et personnes âgées.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Les bilans psychométriques et neuropsychologiques permettent d’évaluer, à l’aide d’outils standardisés, les difficultés ressenties au quotidien (attention, mémoire, langage, raisonnement, émotions, etc.) ou d’explorer un éventuel décalage intellectuel perçu.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Je propose également des programmes d'entraînement aux habiletés parentales (PEHP, méthode Barkley). Ces interventions visent à renforcer la coopération au sein de la famille et à apaiser les relations. Elles s’adressent aux parents d’enfants présentant un TDA/H (Trouble du Déficit de l’Attention avec ou sans Hyperactivité) et/ou un TOP (Trouble Oppositionnel avec Provocation). L’objectif est d’aider les parents à adopter une parentalité plus sereine, mieux adaptée aux besoins de leur(s) enfant(s).
+
+En parallèle, je propose des accompagnements individuels, notamment fondés sur la thérapie des schémas. Cette approche est particulièrement indiquée si vous avez du mal à poser vos limites, si vous vous sentez souvent en échec ou épuisé·e, ou si vous avez le sentiment de revivre les mêmes difficultés, encore et encore. Vous utilisez peut-être, sans y penser, des mots comme « toujours » ou « jamais » pour décrire votre vie : « je n’arrive jamais à rien », « je suis toujours seul·e », « je ne prends jamais de décisions », etc. Ensemble, nous travaillerons à identifier ces schémas qui vous enferment, à mieux comprendre vos réactions et à vous reconnecter à vos besoins, afin de retrouver un équilibre plus juste et plus respectueux de vous-même.
+
+Je défend des valeurs d'inclusivité et de respect. J'accorde une importance particulière à proposer un accueil bienveillant à toute personne, quelle que soit sa situation et son parcours. 
+
+Je vous reçois au cabinet du lundi au jeudi, uniquement sur rendez-vous. 
+La prise de rendez-vous se fait de préférence via Docorga, après un premier contact par mail. Le téléphone est réservé aux urgences.
+
+Aucune ordonnance médicale n’est nécessaire, mais pensez à apporter tout document pouvant aider à mieux comprendre votre demande (bilans déjà réalisés, bulletins scolaires, comptes-rendus médicaux, etc.).
