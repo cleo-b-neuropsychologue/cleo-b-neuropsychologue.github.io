@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Psychologue spécialisée en Neuropsychologie et Docteure en Psychologie, je propose des bilans psychométriques et neuropsychologiques ainsi que des accompagnements psychologiques adaptés aux enfants, adolescents, adultes et personnes âgées.
+<p style='text-align: justify;'> Psychologue spécialisée en Neuropsychologie et Docteure en Psychologie, je propose des bilans psychométriques et neuropsychologiques ainsi que des accompagnements psychologiques adaptés aux enfants, adolescents, adultes et personnes âgées.
 
 Les bilans psychométriques et neuropsychologiques permettent d’évaluer, à l’aide d’outils standardisés, les difficultés ressenties au quotidien (attention, mémoire, langage, raisonnement, émotions, etc.) ou d’explorer un éventuel décalage intellectuel perçu.
 
@@ -39,4 +39,4 @@ Je défend des valeurs d'inclusivité et de respect. J'accorde une importance pa
 Je vous reçois au cabinet du lundi au jeudi, uniquement sur rendez-vous. 
 La prise de rendez-vous se fait de préférence via Docorga, après un premier contact par mail. Le téléphone est réservé aux urgences.
 
-Aucune ordonnance médicale n’est nécessaire, mais pensez à apporter tout document pouvant aider à mieux comprendre votre demande (bilans déjà réalisés, bulletins scolaires, comptes-rendus médicaux, etc.).
+Aucune ordonnance médicale n’est nécessaire, mais pensez à apporter tout document pouvant aider à mieux comprendre votre demande (bilans déjà réalisés, bulletins scolaires, comptes-rendus médicaux, etc.). </p>
