@@ -50,10 +50,10 @@
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
- custom_social: doctolib # can be any name here other than the ones already defined above
-  logo: https://upload.wikimedia.org/wikipedia/fr/7/7f/Logo-doctolib.svg # can be png, svg, jpg
-  title: Doctolib
-  url: https://www.doctolib.fr/psychologue/neuville-de-poitou/cleo-bangoura
+# custom_social: doctolib # can be any name here other than the ones already defined above
+#  logo: https://upload.wikimedia.org/wikipedia/fr/7/7f/Logo-doctolib.svg # can be png, svg, jpg
+#  title: Doctolib
+#  url: https://www.doctolib.fr/psychologue/neuville-de-poitou/cleo-bangoura
  custom_social: Docorga# can be any name here other than the ones already defined above
   logo: https://docorga.com/assets/images/docorga-white.png # can be png, svg, jpg
   title: Docorga
