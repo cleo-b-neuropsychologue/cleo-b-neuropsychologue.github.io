@@ -1,37 +1,49 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Cléo Bangoura",
+    "label": "Neuropsychologue",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "cleo.b.psy@gmail.com",
+    "phone": "à venir",
+    "url": "",
+    "summary": "Docteure en Psychologie | Psychologue-Neuropsychologue | en libéral",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "41 Rue Alphonse Plault",
+      "postalCode": "86170",
+      "city": "Neuville-de-Poitou",
+      "countryCode": "fr",
+      "region": "Vienne"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Cléo Bangoura",
+        "url": "https://fr.linkedin.com/in/cl%C3%A9o-bangoura-3480b1124"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Neuropsychologue Indépendant",
+      "position": "Neuropsychologue Indépendant",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "En cabinet, j'accompagne des personnes de tous âges à mieux comprendre leur fonctionnement cognitif, leurs forces et leurs faiblesses.
+J'effectue des bilans neuropsychologiques comprenant une évaluation psychométrique (échelle de Wechsler : WAIS pour les adultes et WISC pour les enfants et adolescents) et une évaluation neuropsychologique (attention, mémoire, fonctions exécutives, cognition sociale...).",
+      "highlights": ["psychologie"]
+    },
+    {
+      "name": "Chargé d'enseignement vacataire",
+      "position": "Université Poitiers",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "summary": "J'effectue des cours magistraux et des travaux dirigés auprès des élèves de licence de Psychologie.
+Actuellement je propose des TD en psychologie des émotions, communication et langage, Thérapies Cognitives et Comportementales et analyse de la pratique professionnelle.
+Auparavant, j'ai également enseigné en psychologie cognitive, psychologie du développement et statistiques.",
+      "highlights": ["psychologie"]
+    },
   ],
   "volunteer": [
     {
