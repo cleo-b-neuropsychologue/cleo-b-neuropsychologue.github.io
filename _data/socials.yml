@@ -10,7 +10,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
- email: cleo.b.psy@gmail.com # your email address
+email: cleo.b.psy@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -24,7 +24,7 @@
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
- linkedin_username: cléo-bangoura-3480b1124 # your LinkedIn user name
+linkedin_username: cléo-bangoura-3480b1124 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -54,7 +54,7 @@
 #  logo: https://upload.wikimedia.org/wikipedia/fr/7/7f/Logo-doctolib.svg # can be png, svg, jpg
 #  title: Doctolib
 #  url: https://www.doctolib.fr/psychologue/neuville-de-poitou/cleo-bangoura
- custom_social: Docorga# can be any name here other than the ones already defined above
-  logo: https://docorga.com/assets/images/docorga-white.png # can be png, svg, jpg
-  title: Docorga
-  url: https://docorga.com/praticien/68629afca976c0b856693e66
+custom_social: Docorga# can be any name here other than the ones already defined above
+ logo: https://docorga.com/assets/images/docorga-white.png # can be png, svg, jpg
+ title: Docorga
+ url: https://docorga.com/praticien/68629afca976c0b856693e66
