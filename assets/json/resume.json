@@ -90,24 +90,24 @@
   "education": [
     {
       "institution": "Formateur indépendant",
-      "location": "Programme d'Entraînement aux Habiletés Parentales PSYCHOLOGY",
+      "location": "Formation proposée par Sébastien Henrard",
       "url": "",
       "area": "",
-      "studyType": "",
+      "studyType": "Programme d'Entraînement aux Habiletés Parentales PSYCHOLOGY",
       "startDate": "2025-01-01",
       "endDate": "2025-01-01",
-      "score": "10",
+      "score": "",
       "courses": ["Formation"]
     },
     {
       "institution": "CEFTI",
-      "location": "Thérapie des schémas PSYCHOLOGY",
+      "location": "CEFTI",
       "url": "",
       "area": "",
-      "studyType": "",
+      "studyType": "Thérapie des schémas PSYCHOLOGY",
       "startDate": "2025-01-01",
       "endDate": "2025-01-01",
-      "score": "10",
+      "score": "",
       "courses": ["Formation"]
     }
   ],
