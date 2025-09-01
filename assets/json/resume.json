@@ -40,31 +40,75 @@
       "endDate": "",
       "summary": "J'effectue des cours magistraux et des travaux dirigés auprès des élèves de licence de Psychologie. Actuellement je propose des TD en psychologie des émotions, communication et langage, Thérapies Cognitives et Comportementales et analyse de la pratique professionnelle. Auparavant, j'ai également enseigné en psychologie cognitive, psychologie du développement et statistiques.",
       "highlights": ["psychologie"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Ingénieure recherche/développement",
+      "position": "SpirOps",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "2025-01-01",
+      "summary": "",
+      "highlights": ["psychologie"]
+    },
+    {
+      "name": "Doctorante CIFRE",
+      "position": "SpirOps",
+      "url": "",
+      "startDate": "2020-04-01",
+      "endDate": "2023-12-01",
+      "summary": "Doctorante en contrat CIFRE, au sein de l'entreprise Spir Ops, et en partenariat avec le laboratoire CERCA à Poitiers, j'étudie le sujet : Mémoire de 'ce qui est dit' et de 'qui dit' en dialogue humain-humain et humain-système sous l'influence des émotions et du contexte.",
+      "highlights": ["psychologie"]
+    },
+    {
+      "name": "Psychologue - Neuropsychologue",
+      "position": "CENTRE HOSPITALIER HENRI LABORIT",
+      "url": "",
+      "startDate": "2017-05-01",
+      "endDate": "2019-07-01",
+      "summary": "Au sein d'un hôpital de jour, je réalise des bilans neuropsychologiques auprès d'adultes présentant des troubles psychotiques, afin de leur proposer des pistes de prise en charge (programme de remédiation cognitive, etc.). Je participe aux réunions de synthèse en équipe. Je participe également à des protocoles de recherche, au sein d'une Unité de Recherche Clinique.",
+      "highlights": ["psychologie"]
+    },
+    {
+      "name": "Psychologue - Neuropsychologue",
+      "position": "Centre Médico Psycho Pédagogique de Cognac",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-07-01",
+      "summary": "Au sein du CMPP, j'évalue et prend en charge des enfants et adolescents présentant des difficultés dans le domaine du langage oral et écrit. Je participe aux synthèses en équipe, et travaille en collaboration avec des psychomotriciens, psychologues cliniciens et pédopsychiatres.",
+      "highlights": ["psychologie"]
+    },
+    {
+      "name": "Psychologue - Neuropsychologue",
+      "position": "EHPAD Résidence les Deux Châteaux",
+      "url": "",
+      "startDate": "2016-08-01",
+      "endDate": "2016-11-01",
+      "summary": "",
+      "highlights": ["psychologie"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Formateur indépendant",
+      "location": "Programme d'Entraînement aux Habiletés Parentales PSYCHOLOGY",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Formation"]
+    },
+    {
+      "institution": "CEFTI",
+      "location": "Thérapie des schémas PSYCHOLOGY",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "score": "10",
+      "courses": ["Formation"]
     }
   ],
   "awards": [
