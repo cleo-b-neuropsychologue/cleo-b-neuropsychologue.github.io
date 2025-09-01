@@ -2,7 +2,7 @@
 layout: about
 title: Accueil
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Docteure en Psychologie | Psychologue-Neuropsychologue | en libéral</a>. Neuville-de-Poitou, Nouvelle-Aquitaine, France. cleo.b.psy@gmail.com.
 
 profile:
   align: right
@@ -40,3 +40,11 @@ Je vous reçois au cabinet du lundi au jeudi, uniquement sur rendez-vous. <br>
 La prise de rendez-vous se fait de préférence via Docorga, après un premier contact par mail. Le téléphone est réservé aux urgences.<br>
 <br>
 Aucune ordonnance médicale n’est nécessaire, mais pensez à apporter tout document pouvant aider à mieux comprendre votre demande (bilans déjà réalisés, bulletins scolaires, comptes-rendus médicaux, etc.). </p>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_2443.jpg" title="cabinet1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_2444.jpg" title="cabinet2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
