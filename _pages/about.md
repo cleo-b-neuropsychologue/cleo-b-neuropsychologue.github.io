@@ -41,10 +41,10 @@ La prise de rendez-vous se fait de préférence via Docorga, après un premier c
 <br>
 Aucune ordonnance médicale n’est nécessaire, mais pensez à apporter tout document pouvant aider à mieux comprendre votre demande (bilans déjà réalisés, bulletins scolaires, comptes-rendus médicaux, etc.). </p>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/IMG_2443.jpg" title="cabinet1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/IMG_2444.jpg" title="cabinet2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
