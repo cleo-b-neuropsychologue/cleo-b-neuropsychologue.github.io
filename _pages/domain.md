@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Domaines d'expertise
-permalink: /
+permalink: /domain/
 description: 
 nav: true
 nav_order: 2
