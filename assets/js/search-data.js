@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-accueil",
-    title: "Accueil",
+    id: "nav-domaines-d-expertise",
+    title: "Domaines d'expertise",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-mon-parcours",
+  },{id: "nav-domaines-d-39-expertise",
+          title: "Domaines d&#39;expertise",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-mon-parcours",
           title: "Mon Parcours",
           description: "",
           section: "Navigation",
